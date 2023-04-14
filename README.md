@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullahdaro
 - 👀 I’m interested in learning and discovering.
-- 🌱 I’m currently learning TYpeScript.
+- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on great projects
 - 📫 How to reach me Abode.morx@gmail.com
 
